@@ -41,10 +41,7 @@ Minimal task instructions with no prompting structure:
 2) Representative De-identified Examples
 
 A small set of representative de-identified claim-pair inputs covering multiple business scenarios (e.g., inter-institution telemedicine, refund-related re-settlement, emergency–outpatient transitions, and inpatient multi-step procedures).
-Each example provides:
-	•	the original Chinese de-identified record pair, and
-	•	a corresponding English description,
-illustrating how structured claim fields are transformed into natural-language inputs for the LLM.
+
 
 ⸻
 
